@@ -1,2 +1,3 @@
 # okcomputersystems.com
-sitio oficial de ok computer systems 
+Sitio oficial de okcomputersystems.com
+V 1.1
